@@ -1,0 +1,6 @@
+{
+  "name": "Pocket Racer",
+  "description": "High-octane cyber arcade racing game with nitro boosts, garage fleet showroom, track selection, dynamic obstacles, and responsive touch controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
